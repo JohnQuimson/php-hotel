@@ -49,6 +49,8 @@
 
     ];
 
+    var_dump($hotels);
+
 ?>
 
 </body>
